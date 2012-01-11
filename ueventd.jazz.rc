@@ -1,0 +1,10 @@
+# Set device permission here
+/dev/mpu            0660   system       system
+/dev/mpuirq         0660   system       system
+/dev/msm_a2dp_in    0660   system       audio
+/dev/proximity      0640   system       system
+/dev/msm_pcm_out    0660   system       audio
+/dev/snd/controlC0  0660   system       audio
+/dev/diag           0660   radio        radio
+/dev/ttyGS1         0660   system       system
+/dev/i2c-0          0660   system       system
